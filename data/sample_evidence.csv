@@ -1,0 +1,13 @@
+record_id,control_id,control_domain,system,owner,due_date,evidence_date,status,evidence_uri,reviewer
+CT-001,ITGC-AC-01,Access Governance,Microsoft Entra ID,IAM Lead,2026-10-15,2026-10-14,Approved,SIM://evidence/access-review-01,Reviewer A
+CT-002,ITGC-AC-02,Access Governance,Active Directory,IAM Lead,2026-10-20,,Missing,,
+CT-003,ITGC-CH-01,Change Control,Jira,Change Lead,2026-10-25,2026-10-24,Approved,SIM://evidence/change-ticket-03,Reviewer B
+CT-004,ITGC-CH-02,Change Control,Windows Server,Change Lead,2026-10-22,2026-10-23,Submitted,SIM://evidence/change-ticket-04,
+CT-005,ITGC-VM-01,Vulnerability Management,Rapid7-style feed,Security Lead,2026-10-10,2026-10-09,Rejected,SIM://evidence/vuln-report-05,Reviewer C
+CT-006,ITGC-VM-02,Vulnerability Management,Linux Server,Security Lead,2026-11-05,2026-10-28,Approved,SIM://evidence/vuln-report-06,Reviewer C
+CT-007,ITGC-BA-01,Backup and Restore,Storage Platform,Infrastructure Lead,2026-10-27,2026-10-27,Approved,SIM://evidence/restore-test-07,Reviewer D
+CT-008,ITGC-BA-02,Backup and Restore,Storage Platform,Infrastructure Lead,2026-10-28,,Submitted,,Reviewer D
+CT-009,ITGC-IR-01,Incident Management,SIEM,Security Lead,2026-11-02,2026-10-28,Approved,SIM://evidence/incident-drill-09,Reviewer C
+CT-010,ITGC-IR-02,Incident Management,Service Desk,Operations Lead,2026-10-19,2026-10-20,Submitted,SIM://evidence/incident-record-10,Reviewer B
+CT-011,ITGC-AC-03,Access Governance,Microsoft 365,IAM Lead,2026-10-28,2026-10-28,Approved,SIM://evidence/mfa-review-11,Reviewer A
+CT-012,ITGC-CH-03,Change Control,GitHub,Change Lead,2026-11-03,2026-11-02,Approved,SIM://evidence/change-pr-12,Reviewer B
