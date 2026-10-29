@@ -1,0 +1,31 @@
+{
+  "as_of": "2026-10-29",
+  "fictional_data": true,
+  "total_records": 12,
+  "ready_for_sample_review": 6,
+  "needs_review": 6,
+  "overdue_not_approved": 5,
+  "by_domain": {
+    "Access Governance": {
+      "records": 3,
+      "flagged": 1
+    },
+    "Backup and Restore": {
+      "records": 2,
+      "flagged": 1
+    },
+    "Change Control": {
+      "records": 3,
+      "flagged": 2
+    },
+    "Incident Management": {
+      "records": 2,
+      "flagged": 1
+    },
+    "Vulnerability Management": {
+      "records": 2,
+      "flagged": 1
+    }
+  },
+  "caution": "Automated checks are not control effectiveness testing or compliance conclusions."
+}
