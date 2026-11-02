@@ -1,5 +1,8 @@
 # Project ControlTower — Enterprise IT Controls & Continuous Compliance Automation
 
+**Recruiter quick start:** [Read the concise case study](CASE_STUDY.md) · [View the living résumé](https://jamal-davison-live-resume.lovable.app/)
+
+
 **Jamal Davison | Cybersecurity / GRC engineering portfolio**
 
 > **Independent educational simulation.** All systems, evidence references, owners, and review outcomes are fictional. No employer data was accessed. Metadata quality checks do **not** establish that controls operate effectively or satisfy PCI DSS or SOC 2.
@@ -41,7 +44,7 @@ These are checks on **invented examples**, not actual control tests or verified 
 | Sample dashboard | [outputs/dashboard.md](outputs/dashboard.md) |
 | Lovable integration notes | [website/LOVABLE_INTEGRATION_PROMPT.md](website/LOVABLE_INTEGRATION_PROMPT.md) |
 
-The Excel dashboard is available in the downloadable portfolio package; upload of that binary file to this repository is pending.
+The [Excel dashboard](ControlTower_Dashboard.xlsx) is available directly in this repository as a sample workbook.
 
 ## Try it locally
 
