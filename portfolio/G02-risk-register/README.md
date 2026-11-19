@@ -16,4 +16,4 @@ Former contractors retain active accounts after incomplete offboarding notificat
 ## Portfolio skills demonstrated
 Risk identification; prioritization based on business criticality; inherent vs residual scoring; treatment plans; assigned risk/control owners; testing evidence; risk acceptance governance.
 
-**Note:** The .xlsx workbook is a separate deliverable and should be uploaded into this directory once binary upload access is available.
+**Excel deliverable:** [Download the complete six-sheet risk register](../../ControlTower_GRC_Risk_Register.xlsx). The Excel workbook is stored at the repository root; this folder contains supporting documentation and a CSV preview. All examples and approvals are fictional; residual scores are illustrative until validated by control testing.
