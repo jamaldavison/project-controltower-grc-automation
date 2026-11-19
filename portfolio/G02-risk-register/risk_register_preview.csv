@@ -1,0 +1,11 @@
+Risk ID,Domain,Risk statement,Primary cause,Business consequence,Inherent Likelihood,Inherent Impact,Inherent Score,Inherent Tier
+R001,IAM,Former contractors retain active M365 access after contract end,Managers do not consistently notify HR/IT,Unauthorized access; compliance finding,4,4,16,High
+R002,Authentication,Privileged accounts may lack consistently enforced phishing-resistant MFA,Gaps in policy coverage or exceptions,Administrative account compromise,4,5,20,High
+R003,Vulnerability Management,Critical patches are not deployed within agreed remediation windows,Asset ownership and patch scheduling gaps,Exploitation of vulnerable systems,4,5,20,High
+R004,Change Management,Unreviewed production changes could cause service interruptions,Inconsistent approvals and rollback documentation,Downtime; customer complaints; SLA impact,4,4,16,High
+R005,Logging,Security events on in-scope servers may not be monitored promptly,Missing log sources or alert tuning,Delayed detection of unauthorized activity,4,4,16,High
+R006,Third-Party Risk,Critical payment processing vendor may not meet agreed security expectations,Incomplete vendor review and evidence requests,Service outage; data or regulatory exposure,3,5,15,High
+R007,Data Protection,Sensitive payment-related data may be exposed by overly broad sharing,Misconfigured permissions and unclassified repositories,Data disclosure and trust damage,4,5,20,High
+R008,Business Continuity,Backups might not restore key services within recovery objectives,Unverified restore procedures,Extended disruption; data loss,3,5,15,High
+R009,Access Governance,Users may retain permissions no longer needed for their jobs,Role changes not consistently linked to recertification,Privilege creep; insider misuse,4,4,16,High
+R010,Human Risk,Phishing may lead to compromised credentials and unauthorized sessions,Social engineering; inconsistent user reporting,Account takeover and business interruption,4,4,16,High
